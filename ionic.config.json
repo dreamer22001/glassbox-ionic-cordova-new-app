@@ -1,0 +1,7 @@
+{
+  "name": "glassbox-test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
